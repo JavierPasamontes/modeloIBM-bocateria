@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--xtools2_universal_type_manager-->
-<!--Rational Software Architect Designer 9.6.1-->
-<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<!--Rational Software Architect Designer 9.6-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Plataforma de modelado de Rational (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
 <uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_WpAJ07KPEe2uju_w3R4F6g" name="Modelo de diseño">
   <eAnnotations xmi:id="_WpAJ1LKPEe2uju_w3R4F6g" source="uml2.diagrams" references="_WpAJ1bKPEe2uju_w3R4F6g">
@@ -5675,7 +5675,7 @@
               <children xmi:type="notation:SemanticListCompartment" xmi:id="_fHbchs4LEe2mbYtl6iMpsQ" type="OperationCompartment"/>
               <children xmi:type="notation:SemanticListCompartment" xmi:id="_fHbch84LEe2mbYtl6iMpsQ" visible="false" type="SignalCompartment"/>
               <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_fHbciM4LEe2mbYtl6iMpsQ" visible="false" type="StructureCompartment"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fHa1cc4LEe2mbYtl6iMpsQ" x="14916" y="7128"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fHa1cc4LEe2mbYtl6iMpsQ" x="11748" y="6072"/>
             </children>
             <children xmi:type="umlnotation:UMLShape" xmi:id="_ljfPEM4NEe2mbYtl6iMpsQ" element="_ic9qYLgREe2c_NGHV7-kww" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
               <children xmi:type="notation:DecorationNode" xmi:id="_ljfPEs4NEe2mbYtl6iMpsQ" type="ImageCompartment">
@@ -5698,11 +5698,11 @@
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_qzJx5c4NEe2mbYtl6iMpsQ" type="Kind"/>
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_qzJx5s4NEe2mbYtl6iMpsQ" type="Name"/>
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_qzJx584NEe2mbYtl6iMpsQ" type="Parent"/>
-              <children xmi:type="notation:ListCompartment" xmi:id="_qzJx6M4NEe2mbYtl6iMpsQ" type="AttributeCompartment" collapsed="true"/>
+              <children xmi:type="notation:ListCompartment" xmi:id="_qzJx6M4NEe2mbYtl6iMpsQ" type="AttributeCompartment"/>
               <children xmi:type="notation:ListCompartment" xmi:id="_qzJx6c4NEe2mbYtl6iMpsQ" type="OperationCompartment" collapsed="true"/>
               <children xmi:type="notation:SemanticListCompartment" xmi:id="_qzJx6s4NEe2mbYtl6iMpsQ" visible="false" type="SignalCompartment"/>
               <element xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.awt.event.ActionListener%5Bproject%5Eid=Bocateriaaa%5D$uml.Interface"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qzJx4c4NEe2mbYtl6iMpsQ" x="17488" y="3836"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qzJx4c4NEe2mbYtl6iMpsQ" x="20196" y="5016"/>
             </children>
             <children xmi:type="umlnotation:UMLShape" xmi:id="_tPpCcM4NEe2mbYtl6iMpsQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
               <children xmi:type="notation:DecorationNode" xmi:id="_tPyzcM4NEe2mbYtl6iMpsQ" type="ImageCompartment">
@@ -5767,7 +5767,7 @@
               <children xmi:type="notation:ListCompartment" xmi:id="_2cxgaM4NEe2mbYtl6iMpsQ" type="ANNOTATED_ATTRIBUTE_COMPARTMENT" collapsed="true"/>
               <children xmi:type="notation:ListCompartment" xmi:id="_2cxgac4NEe2mbYtl6iMpsQ" type="ANNOTATED_OPERATION_COMPARTMENT" collapsed="true"/>
               <element xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=javax.swing.JPanel%5Bproject%5Eid=Bocateriaaa%5D$uml.Class"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2cxgYc4NEe2mbYtl6iMpsQ" x="4488" y="3960"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2cxgYc4NEe2mbYtl6iMpsQ" x="3168" y="4884"/>
             </children>
             <element xsi:nil="true"/>
             <edges xmi:type="umlnotation:UMLConnector" xmi:id="_nQgKgM4NEe2mbYtl6iMpsQ" element="_nQe8YM4NEe2mbYtl6iMpsQ" source="_fHa1cM4LEe2mbYtl6iMpsQ" target="_ljfPEM4NEe2mbYtl6iMpsQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
@@ -6020,7 +6020,28 @@
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Rey14s4GEe2mbYtl6iMpsQ" type="Freeform" name="Main">
             <element xsi:nil="true"/>
           </contents>
+          <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_wM2qYNMDEe2cQrVTe7hF9g" type="Class" name="ModificarEmp">
+            <children xmi:type="umlnotation:UMLShape" xmi:id="_ypXJENMDEe2cQrVTe7hF9g" element="_ypWiANMDEe2cQrVTe7hF9g" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+              <children xmi:type="notation:DecorationNode" xmi:id="_ypXJEtMDEe2cQrVTe7hF9g" type="ImageCompartment">
+                <layoutConstraint xmi:type="notation:Size" xmi:id="_ypXJE9MDEe2cQrVTe7hF9g" width="1320" height="1320"/>
+              </children>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_ypXwINMDEe2cQrVTe7hF9g" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_ypXwIdMDEe2cQrVTe7hF9g" type="Name"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_ypXwItMDEe2cQrVTe7hF9g" type="Parent"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_ypXwI9MDEe2cQrVTe7hF9g" type="AttributeCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_ypXwJNMDEe2cQrVTe7hF9g" type="OperationCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_ypXwJdMDEe2cQrVTe7hF9g" visible="false" type="SignalCompartment"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_ypXwJtMDEe2cQrVTe7hF9g" visible="false" type="StructureCompartment"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ypXJEdMDEe2cQrVTe7hF9g" x="14388" y="5412"/>
+            </children>
+            <element xsi:nil="true"/>
+          </contents>
         </eAnnotations>
+        <packagedElement xmi:type="uml:Class" xmi:id="_ypWiANMDEe2cQrVTe7hF9g" name="GUIModificarEmp">
+          <ownedAttribute xmi:id="_0jU7YNMDEe2cQrVTe7hF9g" name="id" visibility="private"/>
+          <ownedOperation xmi:id="_1TDvMNMDEe2cQrVTe7hF9g" name="iniGUI"/>
+          <ownedOperation xmi:id="_2zcj4NMDEe2cQrVTe7hF9g" name="resetGUI"/>
+        </packagedElement>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_VRHQ8M4GEe2mbYtl6iMpsQ" name="MostrarEmpleados">
         <eAnnotations xmi:id="_VRHQ8c4GEe2mbYtl6iMpsQ" source="uml2.diagrams" references="_VRHQ8s4GEe2mbYtl6iMpsQ">
