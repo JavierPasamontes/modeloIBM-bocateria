@@ -10,5 +10,6 @@
 			<attribute name="optional" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="lib/json.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
